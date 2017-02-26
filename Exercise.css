@@ -1,0 +1,54 @@
+.text-center{
+
+		color: grey;
+		text-aligh:center;
+}
+
+.btn-blue{
+
+background-color: white;
+}
+
+.btn-round{
+	border-radius: 10px;
+}
+
+.bg-image{
+
+	
+	background-image: url('varsitybanner.jpg');
+	padding-top: 170px;
+	padding-bottom: 170px;
+	background-size: cover;
+
+}
+
+.text-white {
+	color: white;
+	text-shadow: 2px 2px 5px black;
+}
+
+
+
+
+img {
+
+	height: 50px;
+	width: 50px;
+}
+
+}
+
+
+.navbar-inverse {
+
+	background-image: url('varsitytop.jpg');
+	background-size: cover;
+
+}	
+
+
+.text-font {
+	font-style: italic;
+
+}
